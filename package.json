@@ -1,0 +1,27 @@
+{
+  "name": "js-budget-app",
+  "version": "1.0.0",
+  "description": "Simple budget app using javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wandrewallen333/js-budget-app.git"
+  },
+  "keywords": [
+    "html",
+    "javascript",
+    "es6"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wandrewallen333/js-budget-app/issues"
+  },
+  "homepage": "https://github.com/wandrewallen333/js-budget-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
